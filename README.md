@@ -7,7 +7,7 @@ This project is a freelancing platform designed to connect college students with
 - Video and feedback integration
 - Booking system for services
 - Built with Kotlin (backend) and modern Android (frontend)
-- Uses SQLite for data storage.
+- Uses SQLite for data storage
 
 ## Getting Started
 
