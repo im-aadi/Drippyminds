@@ -9,7 +9,7 @@ This project is a freelancing platform designed to connect college students with
 - Built with Kotlin (backend) and modern Android (frontend)
 - Uses SQLite for data storage
 
-## Getting Started
+## Getting Started.
 
 ### Prerequisites
 - Java 11 or higher
